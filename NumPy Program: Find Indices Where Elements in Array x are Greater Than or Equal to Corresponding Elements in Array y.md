@@ -24,6 +24,7 @@ print("Array y:", y)
 print("Indices where x >= y:", indices[0])
 ```
 ## Output
-![Uploading Screenshot 2025-05-02 230015.png…]()
+![Screenshot 2025-05-02 230015](https://github.com/user-attachments/assets/aee4485c-1af1-45a9-8acc-bbbaff2a5044)
 
 ## Result
+Thus,the python program Code Execution Successful
